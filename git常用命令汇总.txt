@@ -1,1 +1,8 @@
 --第一次尝试推送
+exm.1 第一次推送项目文件到git仓库
+如果你的项目没有加入到git版本控制
+1. git init
+2. git add .
+3. git commit -m "comment"
+4. git remote add origin giturl
+4. git push -u origin master
